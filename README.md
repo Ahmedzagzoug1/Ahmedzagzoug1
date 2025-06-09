@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Mohammed Elsaghier</h1>
+<h3 align="center">🚀 A Passionate Flutter & Native Android Developer from Egypt 🇪🇬</h3>
 
-<!--
-**Ahmedzagzoug1/Ahmedzagzoug1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a Computer Engineering student at Al-Azhar University (Graduating in 2022)
+- 💻 I work mainly with **Flutter**, **Dart**, and **Java (Android)**
+- 🌱 Currently learning advanced **Firebase** and **State Management**
+- 📱 I’ve built apps like News App, Laptop Store, and E-commerce
+- 🤝 Looking for a **Junior Flutter Developer** opportunity or internship
 
-Here are some ideas to get you started:
+### 🔧 Languages & Tools:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats:
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedzagzoug1&show_icons=true&theme=tokyonight)
+
+### 📫 Contact Me:
+- Email: ahmedmelsaghier@gmail.com   
+- LinkedIn:[https://www.linkedin.com/in/ahmed-elsaghier-1986351b3/
+]
