@@ -4,7 +4,7 @@
 - 🎓 I’m a Computer Engineering student at Al-Azhar University (Graduating in 2022)
 - 💻 I work mainly with **Flutter**, **Dart**, and **Java (Android)**
 - 🌱 Currently learning advanced **Firebase** and **State Management**
-- 📱 I’ve built apps like News App, VPN, and E-commerce
+- 📱 I’ve built apps like Food App, car Rental, and E-learning
 - 🤝 Looking for a **Junior Flutter Developer** opportunity or internship
 
 ### 🔧 Languages & Tools:
@@ -18,6 +18,6 @@
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedzagzoug1&show_icons=true&theme=tokyonight)
 
 ### 📫 Contact Me:
-- Email: ahmedmelsaghier@gmail.com   
+- Email: ahmedmohammedelsaghier@gmail.com   
 - LinkedIn:[https://www.linkedin.com/in/ahmed-elsaghier-1986351b3/
 ]
