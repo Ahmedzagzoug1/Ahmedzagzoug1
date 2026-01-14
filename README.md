@@ -3,9 +3,9 @@
 
 - 🎓 I’m a Computer Engineering student at Al-Azhar University (Graduating in 2022)
 - 💻 I work mainly with **Flutter**, **Dart**, and **Java (Android)**
-- 🌱 Currently learning advanced **Firebase** and **State Management**
+- 🌱 Currently learning advanced **Firebase** , **State Management** , **Clean Architecture** And **Firebase**
 - 📱 I’ve built apps like Food App, car Rental, and E-learning
-- 🤝 Looking for a **Junior Flutter Developer** opportunity or internship
+- 🤝 Looking for a **Junior Flutter Developer** opportunity 
 
 ### 🔧 Languages & Tools:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
