@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohammed Elsaghier</h1>
 <h3 align="center">🚀 A Passionate Flutter & Native Android Developer from Egypt 🇪🇬</h3>
 
-- 🎓 I’m a Computer Engineering student at Al-Azhar University (Graduating in 2022)
+- 🎓 B.Sc. in Computer Engineering | Al-Azhar University (Class of 2022)
 - 💻 I work mainly with **Flutter**, **Dart**, and **Java (Android)**
 - 🌱 Currently learning advanced **Firebase** , **State Management** , **Clean Architecture** And **Firebase**
 - 📱 I’ve built apps like Food App, car Rental, and E-learning
@@ -19,5 +19,4 @@
 
 ### 📫 Contact Me:
 - Email: ahmedmohammedelsaghier@gmail.com   
-- LinkedIn:[https://www.linkedin.com/in/ahmed-elsaghier-1986351b3/
-]
+- LinkedIn: https://www.linkedin.com/in/ahmed-elsaghier-1986351b3/
